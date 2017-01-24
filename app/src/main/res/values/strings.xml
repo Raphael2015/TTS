@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TTS</string>
+    <string name="excecutar">Excecutar</string>
+    <string name="falar">Falar</string>
+    <string name="speech_not_supported">não tem supporte para escutar</string>
+    <string name="speech_prompt"></string>
+</resources>
